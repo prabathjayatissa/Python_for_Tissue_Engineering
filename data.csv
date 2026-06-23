@@ -1,0 +1,9 @@
+Cell line,Experiment,Quantity,Time (hours),Condition
+HEK293,Differentiation,50,24,TGF-β1
+HEK293,Proliferation,75,16,Cytokines
+HEK293,Apoptosis,20,48,Drug X1
+MCF-7,Differentiation,65,30,TGF-β1
+MCF-7,Proliferation,80,24,Cytokines
+MCF-7,Apoptosis,15,48,Drug X2
+A549,Differentiation,70,36,TGF-β1
+A549,Proliferation,85,20,Cytokines
