@@ -1,13 +1,13 @@
 """
 Matplotlib Masterclass 02
-Advanced Scientific Visualization for Tissue Engineering MSc Students
+Advanced Scientific Visualisation for Tissue Engineering MSc Students at FHTW
 
 Topics:
 - Biomaterial comparison plots
 - Cell viability experiments
 - Dose-response curves
 - Differentiation markers
-- Mechanical testing visualization
+- Mechanical testing visualisation
 - 3D scaffold pore analysis
 - Microscopy image quantification
 - Publication-style figures
