@@ -22,6 +22,7 @@ print(df)
 
 #### Reading from a CSV File
 # Create the expanded CSV data as a string
+
 csv_data = """Cell line,Experiment,Quantity,Time (hours),Condition
 HEK293,Differentiation,50,24,TGF-β1
 HEK293,Proliferation,75,16,Cytokines
