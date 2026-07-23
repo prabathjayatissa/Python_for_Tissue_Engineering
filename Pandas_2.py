@@ -42,7 +42,7 @@ print("\nData written to 'output.csv'. Check the file.")
 
 ### 5. Basic Data Manipulation
 
-#### Selecting Data
+#### Selecting Data 
 print("\nSelect 'Experiment' column:")
 print(df['Experiment'])
 
@@ -54,7 +54,7 @@ filtered_df = df[df['Experiment'] == 'Differentiation']
 print("\nFiltered DataFrame where Experiment is 'Differentiation':")
 print(filtered_df)
 
-### 6. Data Aggregation
+### 6. Data Aggregation 
 
 # Example data with quantity and experiment type
 data = {
