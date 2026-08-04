@@ -80,6 +80,7 @@ print(merged_df)
 ### 8. Data Cleaning
 
 #### Handling Missing Values
+
 data_with_nan = {
     'Experiment': ['Differentiation', 'Proliferation', None, 'Apoptosis'],
     'Quantity': [30, np.nan, 20, 60]
