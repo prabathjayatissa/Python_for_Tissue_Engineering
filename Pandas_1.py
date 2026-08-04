@@ -23,7 +23,7 @@ print(df)
 
 #### Reading from a CSV File
 
-# Assuming you have a file named 'data.csv' in the same directory
+# Assuming you have a file named 'data.csv' in the same  directory
 try:
     df = pd.read_csv('data.csv')
     print("\nFirst 5 rows of the CSV file:")
